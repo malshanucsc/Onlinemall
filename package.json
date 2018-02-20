@@ -1,0 +1,11 @@
+{
+  "name": "onlinemall",
+  "version": "1.0.0",
+  "description": "Online mall which users can publish ads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malshan Wanigasekara",
+  "license": "ISC"
+}
